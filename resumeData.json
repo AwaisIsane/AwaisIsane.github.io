@@ -7,34 +7,26 @@
     "bio": "My name is Awais, I'm a Full Stack ReactJS Developer",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "awaisisane@gmail.com",
-    "phone": "+1 800 NAZ DUMA",
+    "phone": "8082760160",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "Taloja Phase 1",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "zip": "401208"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.awaisisane.github.io",
+    "resumedownload": "https://www.linkedin.com/in/awaisisane/",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
-        "className": "fa fa-facebook"
-      },
+  
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/awaisisane/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
+
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/AwaisIsane",
         "className": "fa fa-github"
       }
     ]
@@ -43,9 +35,9 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
+        "school": "University of Mumbai-Saboo Siddik College of Engg",
+        "degree": "Bachelor's Degree, Computer Engineerng",
+        "graduated": "January 2022",
         "description": "Graduated with Distinction"
       }
     ],
@@ -66,7 +58,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "75%"
       },
       {
         "name": "Python",
@@ -78,7 +70,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "100%"
+        "level": "90%"
       },
       {
         "name": "MongoDB",
@@ -106,11 +98,11 @@
     "testimonials": [
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "user": "Kare"
       },
       {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "if you have a viral meme he is involved init",
+        "user": "Elon Musk"
       }
     ]
   }
