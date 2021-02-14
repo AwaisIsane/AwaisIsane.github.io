@@ -3,7 +3,7 @@
     "name": "Awais Isane",
     "occupation": "Student(computer engg)",
     "description": "Student intrested in learning new things",
-    "image": "Naz.jpg",
+    "image": "pic.jpg",
     "bio": "My name is Awais, I'm a Full Stack ReactJS Developer",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "awaisisane@gmail.com",
@@ -75,22 +75,20 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name":"pytorch",
+        "level":"75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
+        "title": "Face Recognition",
+        "category": "Face recognition using Tensorflow",
         "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
-      },
-      {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://github.com/AwaisIsane/Face-recognition"
       }
     ]
   },
@@ -101,7 +99,7 @@
         "user": "Kare"
       },
       {
-        "text": "if you have a viral meme he is involved init",
+        "text": "I dont Know this guy",
         "user": "Elon Musk"
       }
     ]
